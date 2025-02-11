@@ -15,7 +15,8 @@ Pengguna bisa:
  - Memungkinkan pengguna melihat isi keranjang sebelum checkout.
  - Memberikan opsi untuk membatalkan atau melanjutkan pembayaran.
 
-Segitu dulu dari saya, terima kasih atas waktunya anda bisa langsung mengecek
-codingan saya yang sudah saya simpan.
+Hasil Running bisa dilihat dibawah ini
+![UAS_Fahrij - Apache NetBeans IDE 23 2_11_2025 5_08_13 AM](https://github.com/user-attachments/assets/4396ba7c-3850-45cb-911e-a0060d954046)
+
 
 Terima Kasih.
