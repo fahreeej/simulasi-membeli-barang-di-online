@@ -33,7 +33,7 @@ Hasil Running bisa dilihat dibawah ini:
 
 ![1565206a-485a-47a6-a686-05dd264cd220](https://github.com/user-attachments/assets/6eaf989f-539a-461d-ab0f-a10d7d9bf1eb)
 
-• Di menu ke empat, User bisa melihat barang yang dipilih pada menu awal.
+• Di menu ke empat, User bisa melihat barang yang dipilih pada menu awal dan jika sudah membayar keranjang akan dikosongkan.
 
 ![6633b899-7305-4867-8f1e-dd94b83877bb](https://github.com/user-attachments/assets/ed29d460-4cae-4751-b01d-33d56226927f)
 
@@ -41,6 +41,9 @@ Hasil Running bisa dilihat dibawah ini:
 
 ![da080b7a-7f99-430b-b957-c1ba1b98c84f](https://github.com/user-attachments/assets/5ded2462-728e-48df-a0cb-324be17194f3)
 
+• Ini full foto dari programnya
+
+![UAS_Fahrij - Apache NetBeans IDE 23 2_11_2025 4_53_46 PM](https://github.com/user-attachments/assets/0b06f983-a985-4519-9a31-d9be96867eaf)
 
 Sekian dari saya,
 
