@@ -17,15 +17,14 @@ public class UAS_Fahrij {
         do {
             tampilkanMenu();
             
-            // Cek apakah input adalah angka
             if (!input.hasNextInt()) {
                 System.out.println("Masukkan angka yang benar!");
-                input.next(); // Hapus input yang salah
+                input.next();
                 continue;
             }
 
             pilihan = input.nextInt();
-            input.nextLine(); // Membuang newline agar tidak bentrok dengan nextLine() di input lain
+            input.nextLine();
 
             switch (pilihan) {
                 case 1 -> beliBarang();
@@ -55,7 +54,6 @@ public class UAS_Fahrij {
         System.out.println("3. Keyboard - Rp. 20.000");
         System.out.print("Pilih barang (1-3): ");
         
-        // Validasi input angka
         if (!input.hasNextInt()) {
             System.out.println("Masukkan angka yang benar!");
             input.next();
