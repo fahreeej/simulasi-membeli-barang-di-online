@@ -17,7 +17,7 @@ Pengguna bisa:
 
 Hasil Running bisa dilihat dibawah ini:
 
-• Ini tampilan awal saat program dijalankan, akan memunculkan menu pilihan.
+• Ini tampilan awal saat program dijalankan, akan memunculkan menu pilihan dan user juga diberi saldo awal sebesar 100000.
 
 ![644653bf-d248-4e2a-8fe3-6696355f78b3](https://github.com/user-attachments/assets/d73f07d0-a8aa-426b-b946-d1570c4ca352)
 
@@ -43,5 +43,6 @@ Hasil Running bisa dilihat dibawah ini:
 
 
 Sekian dari saya,
+
 Terima kasih atas waktu yang sudah digunakan untuk membaca deskripsi ini
 Saya ucapkan terima kasih banyak😊😊
